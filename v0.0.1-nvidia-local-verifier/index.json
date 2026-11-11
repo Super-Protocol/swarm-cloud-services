@@ -1,0 +1,115 @@
+{
+  "version": "v0.0.1-nvidia-local-verifier",
+  "services": [
+    {
+      "name": "auth-service",
+      "file": "auth-service-cacc49e2.zip",
+      "sha256": "cacc49e2b6c7ae5ff89c60427cb90edb57417b9bb9b45d7d4123e224b04aa56e"
+    },
+    {
+      "name": "cockroachdb",
+      "file": "cockroachdb-61315500.zip",
+      "sha256": "61315500afb7e543650538819f785b830242102d352df5fbd7bd5b9e1d525072"
+    },
+    {
+      "name": "dns-manager",
+      "file": "dns-manager-f9e7b3bb.zip",
+      "sha256": "f9e7b3bb1438d8f2312baae0eae0a3ef1863b780eebcbf5c648be44d048772f3"
+    },
+    {
+      "name": "domain-initializer",
+      "file": "domain-initializer-01681a77.zip",
+      "sha256": "01681a77d1878c4f87b4e397cd9847fa986a006c36f03a53b44680034f18df8e"
+    },
+    {
+      "name": "geo-ip-measurement",
+      "file": "geo-ip-measurement-6cdd66be.zip",
+      "sha256": "6cdd66bea906ee57543f3a66287f9d011291652bc4d25031547dea89eac7b356"
+    },
+    {
+      "name": "harbor",
+      "file": "harbor-2a5621a3.zip",
+      "sha256": "2a5621a32bc64ab804bc4c6953dac20060524f61377d91f1bc59a81c8c05fd62"
+    },
+    {
+      "name": "hw-measurement",
+      "file": "hw-measurement-63fc762b.zip",
+      "sha256": "63fc762ba300a2c03bd92e29b6c2560f82a7974ca869bd1e4b90533c07f9be9a"
+    },
+    {
+      "name": "knot",
+      "file": "knot-15d0985b.zip",
+      "sha256": "15d0985b2fbae18b64f48779a1c13577bed3ea10990ea3e37e42fcfdfc2c777c"
+    },
+    {
+      "name": "latency-measurement",
+      "file": "latency-measurement-49720142.zip",
+      "sha256": "497201421d7584f4be6e95ec4b77a7278bdeab0da83db868a2c4b92f7180f0d6"
+    },
+    {
+      "name": "minio",
+      "file": "minio-caa794d0.zip",
+      "sha256": "caa794d066b73b1a60bc080bcbc7d29b7991f378747eeb4284af99505660214f"
+    },
+    {
+      "name": "nats",
+      "file": "nats-fc92cd82.zip",
+      "sha256": "fc92cd8298d9a8aae712ea565fe0a2b6672e2b1095c875e8a5e2f183bd9d5495"
+    },
+    {
+      "name": "openresty",
+      "file": "openresty-60a5d55c.zip",
+      "sha256": "60a5d55cbc3ba4a8b47263fb2d3edbc3956eeeb6602f8f97a33575bb7c804b78"
+    },
+    {
+      "name": "pki-authority",
+      "file": "pki-authority-a1ef31e1.zip",
+      "sha256": "a1ef31e11d952c1a338ebc6c98b707c32ff425ffcf6c121abad9e0cd8bebca1a"
+    },
+    {
+      "name": "redis-sentinel",
+      "file": "redis-sentinel-a209febf.zip",
+      "sha256": "a209febf74c34950787e3553bd71ea64cb66e917c36331cc8f6fa618f9dc5152"
+    },
+    {
+      "name": "redis",
+      "file": "redis-c2cbe13b.zip",
+      "sha256": "c2cbe13b8c12160b6928ebb62cbd105432e37f5b195f3a7938c5858a81d96cf9"
+    },
+    {
+      "name": "rke2",
+      "file": "rke2-52e8b69c.zip",
+      "sha256": "52e8b69cee6b5959a129033128d4376a04b012711e6d2a0d9e346cd018d88792"
+    },
+    {
+      "name": "route-manager",
+      "file": "route-manager-f7961bc7.zip",
+      "sha256": "f7961bc72bbdf1175b3fe8b46d62a48e361bb4f38adeba3a4b4ae7dbaa38b2ba"
+    },
+    {
+      "name": "swarm-cloud-api",
+      "file": "swarm-cloud-api-a636c774.zip",
+      "sha256": "a636c77407c2b25b6dc86f24ff5ab2751695af9e658a0e5c3c59c3b4f82520d8"
+    },
+    {
+      "name": "swarm-cloud-ui",
+      "file": "swarm-cloud-ui-35e097e4.zip",
+      "sha256": "35e097e47c99e0f4ab46461e1f87034cca7fc8e97f7a918519c34a068600390c"
+    },
+    {
+      "name": "swarm-gatekeeper-harbor",
+      "file": "swarm-gatekeeper-harbor-4196e616.zip",
+      "sha256": "4196e616885325d68ee51eb9f1858e7443e3997ba830674580df8a7d4970ff17"
+    },
+    {
+      "name": "swarm-gatekeeper-s3",
+      "file": "swarm-gatekeeper-s3-43887f53.zip",
+      "sha256": "43887f53bf34dbd6d10412e35371e711f415bdff6f80730eda5cea380dc8fe79"
+    },
+    {
+      "name": "wireguard",
+      "file": "wireguard-92fa5480.zip",
+      "sha256": "92fa5480689d34a2c7faf95bc1b74b29b965a34084a6decce0ddf9b75725ad3d"
+    }
+  ]
+}
