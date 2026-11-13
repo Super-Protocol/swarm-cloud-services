@@ -3,113 +3,113 @@
   "services": [
     {
       "name": "auth-service",
-      "file": "auth-service-1fc2136b.zip",
-      "sha256": "1fc2136b1311b7bd1273736d0d3a6428432d0f017772544c2294cfc0dda6581a"
+      "file": "auth-service-73ae19ad.zip",
+      "sha256": "73ae19ad7b3567acf1387b0ed0332f6e63a398c5745dd821f1942a7489f0aa77"
     },
     {
       "name": "cockroachdb",
-      "file": "cockroachdb-159b688e.zip",
-      "sha256": "159b688ea768e22ce23d4fa750e51648738fc46e174c6bf74d704ab95d4f5d07"
+      "file": "cockroachdb-e1e71ca1.zip",
+      "sha256": "e1e71ca1a9ed365b447b7cc8fcb091696dcb91b9241aedcca3ef8345fa674710"
     },
     {
       "name": "dns-manager",
-      "file": "dns-manager-30e2e8e7.zip",
-      "sha256": "30e2e8e769c5d3e92a9ffa595d487439337e1caf6a40e6bc79150f4f95e6d025"
+      "file": "dns-manager-03a48eb1.zip",
+      "sha256": "03a48eb1638eaaf4c01b6a71c0c2c67ca732a6fbaf3d5327725f6d6b9ebf25ac"
     },
     {
       "name": "domain-initializer",
-      "file": "domain-initializer-48520527.zip",
-      "sha256": "48520527d00162d84bd3d3cfc4fbd23c97fc9144c0a79376b8f5b489201a35cc"
+      "file": "domain-initializer-f1a06d60.zip",
+      "sha256": "f1a06d606ed5aa584e2958c3e12d1b26ac57f8aa494d22f1ca4eab1058b13645"
     },
     {
       "name": "geo-ip-measurement",
-      "file": "geo-ip-measurement-f665be38.zip",
-      "sha256": "f665be381851eaa852fa423e92edcafaa90e2bfa5f261e79d789fb1b056811f2"
+      "file": "geo-ip-measurement-b9242035.zip",
+      "sha256": "b92420351c5652c33fccc433915461977e18298080a7addc9ab0b65598934e22"
     },
     {
       "name": "harbor",
-      "file": "harbor-df923de6.zip",
-      "sha256": "df923de67ebeaa4bd7178e340fcb4a8fd45219d6c42c020e38aada86353fcf5b"
+      "file": "harbor-6203bcb7.zip",
+      "sha256": "6203bcb784fd10daf63b892e591c2253020f21f59b51765ebef3a7683db1ee6d"
     },
     {
       "name": "hw-measurement",
-      "file": "hw-measurement-026f2736.zip",
-      "sha256": "026f27364b6b94513b2ed256bbe15a8297ec6ab3aa68299080fe67a75b2df34b"
+      "file": "hw-measurement-762c5b7d.zip",
+      "sha256": "762c5b7d224576e07fa408adcf0b1a8035efee9ea0b45384f87091b6d86ce152"
     },
     {
       "name": "knot",
-      "file": "knot-96fb06f0.zip",
-      "sha256": "96fb06f0a5a8d128f57c9730aad8a0c6c1ffd1ce1978cb9dd40f3695232a5704"
+      "file": "knot-7e5aa3db.zip",
+      "sha256": "7e5aa3db908adfaa2176fa261e7ee4f5f83b25d55c5d910f54ae37c64eff9d2f"
     },
     {
       "name": "latency-measurement",
-      "file": "latency-measurement-47c1ec0a.zip",
-      "sha256": "47c1ec0a3b39110884809851802a239aa2b6350fd8e56c474e2f3c8b5f8bbc30"
+      "file": "latency-measurement-7c0ccaf3.zip",
+      "sha256": "7c0ccaf315c30fd5724d896599ce361534f802a98c6016d85b44dfa6d6dbb1c9"
     },
     {
       "name": "minio",
-      "file": "minio-9cb1e992.zip",
-      "sha256": "9cb1e9928660c02f24003ed1fbc17c7245cf46be94036ac27784a810b7e36b1b"
+      "file": "minio-73f71e18.zip",
+      "sha256": "73f71e181666992ef8b8af6776238abd19aa531002e26e0b9b077c8e715f6550"
     },
     {
       "name": "nats",
-      "file": "nats-3a07d910.zip",
-      "sha256": "3a07d9104b0175f66421f410f837d9b1f9821772742fea98ceb0ea7ee4e5b07b"
+      "file": "nats-bf3caeb8.zip",
+      "sha256": "bf3caeb8b7ac4615c0ddaf9fbad5ad9848350102944ba7c9af9d37bfefc01b41"
     },
     {
       "name": "openresty",
-      "file": "openresty-8177af10.zip",
-      "sha256": "8177af10054962daa2b362260df042ca38d6588c2fd031245032f46246c39155"
+      "file": "openresty-8a2b9053.zip",
+      "sha256": "8a2b9053be4c1d28732c401d5c880df9cb02305234f4d7cee2aeaad5cdb0b9b4"
     },
     {
       "name": "pki-authority",
-      "file": "pki-authority-99bdb4b5.zip",
-      "sha256": "99bdb4b5808d8e088a358c19cbce20d6be0603cae76a40641df253fd22d39e6e"
+      "file": "pki-authority-7bbef716.zip",
+      "sha256": "7bbef7168e37abda8be14ead90a4320a163bbf11db6d15832b9d15499599f42b"
     },
     {
       "name": "redis",
-      "file": "redis-274738ed.zip",
-      "sha256": "274738ed7c9db5587bb823ddd2fc4f5d4b6607259ade382d07886f19fe3194ff"
+      "file": "redis-9d856b17.zip",
+      "sha256": "9d856b174243a3e8c0ef0846f262e6944bc36b824c65d664d02fbc80f7383978"
     },
     {
       "name": "redis-sentinel",
-      "file": "redis-sentinel-1ea88bb8.zip",
-      "sha256": "1ea88bb8385d1f9e2f158450eb777e4b0f737af195238c5bbf6828f5f341778e"
+      "file": "redis-sentinel-b6d426f9.zip",
+      "sha256": "b6d426f934b9ee09fc5740b5b2c4843a01372cd889392d9bcd7f071083685ef3"
     },
     {
       "name": "rke2",
-      "file": "rke2-c78ddbc3.zip",
-      "sha256": "c78ddbc3c40a3865142cc8fb11476ca41c8e79f2112c0c4ce6dda1413c18336e"
+      "file": "rke2-d20bfe44.zip",
+      "sha256": "d20bfe4461dd17a267a19007afc53c3addc6b568b09638e5e5bb199bda7d6444"
     },
     {
       "name": "route-manager",
-      "file": "route-manager-56a0af74.zip",
-      "sha256": "56a0af74e7623dc4e94dffb9bed8ba01f7380e3c084006026c87a25d62350bad"
+      "file": "route-manager-f70ea26c.zip",
+      "sha256": "f70ea26c0f0501faa16a61d4735e78bfff3e4569c54b36b0f6ce2d4d651d2f5a"
     },
     {
       "name": "swarm-cloud-api",
-      "file": "swarm-cloud-api-5c19b136.zip",
-      "sha256": "5c19b136cfb24bed3e03e4602b90848e03661a4cadabb30a9388d8c48467fbb5"
+      "file": "swarm-cloud-api-4271dc34.zip",
+      "sha256": "4271dc34391eccae88598c1bf53b8055c32a037bc2b9f154c74d20909909235e"
     },
     {
       "name": "swarm-cloud-ui",
-      "file": "swarm-cloud-ui-51d72f15.zip",
-      "sha256": "51d72f15f38d4eedb7e5d02a696996f6c402612eb89493e15fa9440b5f6b006e"
+      "file": "swarm-cloud-ui-158428d7.zip",
+      "sha256": "158428d72dad092b093298317967d286319cb02efea801419d9d2799e31d485e"
     },
     {
       "name": "swarm-gatekeeper-harbor",
-      "file": "swarm-gatekeeper-harbor-9c49ca39.zip",
-      "sha256": "9c49ca39f20e865f264c2d849a963fdac1dd938694fc48bda9364002095c8481"
+      "file": "swarm-gatekeeper-harbor-56d9f48c.zip",
+      "sha256": "56d9f48c29fb0c45a82e8bb6954c5507d2c88e2f3bdb8f07561bbc4477c354f2"
     },
     {
       "name": "swarm-gatekeeper-s3",
-      "file": "swarm-gatekeeper-s3-b4fef643.zip",
-      "sha256": "b4fef64303732182420bec53eb71ba0505b6fd11230cbe89a0d20e5459df9b13"
+      "file": "swarm-gatekeeper-s3-78f02533.zip",
+      "sha256": "78f0253380c88abf4184dc3765acfadedb24b81283e206dbc17489ca8fcbbac0"
     },
     {
       "name": "wireguard",
-      "file": "wireguard-1edfb41e.zip",
-      "sha256": "1edfb41e008f4c40bbf16852ca70165d7bb647249faa68c6991b576aebf2e9da"
+      "file": "wireguard-cfd93762.zip",
+      "sha256": "cfd937624dd8f672f155ceb0f25c9360b46f0a146ec0ff33e82301a44c7cdcf3"
     }
   ]
 }
